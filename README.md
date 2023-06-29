@@ -1,2 +1,2 @@
-# keywords
+# Description
 Keyword highlightning definitions for SecureCRT
