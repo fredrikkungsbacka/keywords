@@ -1,5 +1,5 @@
 # Description
-Keyword highlightning definitions for SecureCRT
+Keyword highlightning definitions for SecureCRT focused on Cisco devices
 
 # Usage
 Add to: (SecureCRT Folder)/Config/Keywords
