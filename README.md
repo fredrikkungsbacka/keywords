@@ -2,7 +2,7 @@
 Keyword highlightning definitions for SecureCRT focused on Cisco devices
 
 # Usage
-Add to: (SecureCRT Folder)/Config/Keywords  
-To enable: Options -> Global Options  
-Default Session -> Edit Default Session  
-Terminal -> Appearance -> Highlight keywords  
+Add file to folder: (SecureCRT Folder)/Config/Keywords  
+To enable: Options -> Configure -> Default Session  
+Choose list name: Terminal -> Keyword Highlighting
+Select "Color" and "Phrases and substrings": Terminal -> Keyword Highlighting -> Advanced
